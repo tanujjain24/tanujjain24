@@ -3,6 +3,8 @@
 <h1 align="left">I'm Tanuj Jhabakh</h1>
 <h3 align="left">Data Analyst</h3>
 
+- 🔭 I’m currently working on **COVID-19 Outbreak Analysis in India**
+
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Tableau**
 
 - 💬 Ask me about **Data Analysis**
@@ -14,7 +16,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
